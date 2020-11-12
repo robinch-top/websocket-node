@@ -1,1 +1,1 @@
-use node websocket build the game back-end
+use node socket build the game back-end
